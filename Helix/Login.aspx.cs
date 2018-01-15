@@ -18,5 +18,6 @@ public partial class Login : System.Web.UI.Page
         //mesage para probar git
         ScriptManager.RegisterStartupScript(this, this.GetType(), "alertIns", "alert('El registro se guardó correctamente');", true);
         ScriptManager.RegisterStartupScript(this, this.GetType(), "alertIns", "alert('El registro se guardó correctamente');", true);
+        //esto es un mensaje para TEST
     }
 }
